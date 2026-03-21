@@ -1,0 +1,32 @@
+player,team_home,shot_type,situation,body_part,x,y,xg,minute
+Bruno Fernandes,False,block,set-piece,right-foot,20.1,27.8,0.022501960396767,90
+Evanilson,True,miss,assisted,head,9.9,54.4,0.046732995659113,90
+David Brooks,True,block,fast-break,left-foot,19.4,36.0,0.059422496706247,86
+Eli Junior Kroupi,True,goal,penalty,right-foot,11.5,50.0,0.7884,81
+Eli Junior Kroupi,True,block,assisted,right-foot,24.4,30.1,0.016906438395381,78
+Rayan,True,block,fast-break,left-foot,18.1,70.5,0.022570626810193,77
+Alex Scott,True,post,assisted,right-foot,23.4,41.7,0.027098253369331,76
+Marcos Senesi,True,miss,regular,left-foot,18.8,33.8,0.015256262384355,74
+James Hill,False,goal,corner,head,3.5,54.0,0.0,71
+Ryan Christie,True,goal,assisted,right-foot,14.8,46.0,0.064221203327179,67
+Bruno Fernandes,False,goal,penalty,right-foot,11.5,50.0,0.7884,61
+Álex Jiménez,True,miss,regular,right-foot,24.0,62.0,0.026495655998588,55
+Leny Yoro,False,miss,corner,head,4.2,54.0,0.15894532203674,52
+Alex Scott,True,block,throw-in-set-piece,right-foot,15.1,68.1,0.021318793296814,51
+Ryan Christie,True,miss,assisted,left-foot,23.1,39.1,0.036946382373571,46
+Marcus Tavernier,True,save,free-kick,left-foot,25.9,60.9,0.048091445118189,41
+Adrien Truffert,True,save,corner,left-foot,19.8,35.4,0.041366931051016,36
+Bruno Fernandes,False,save,assisted,right-foot,4.1,39.5,0.12493018060923,35
+Bruno Fernandes,False,block,assisted,right-foot,21.9,56.2,0.062753930687904,35
+Diogo Dalot,False,miss,assisted,right-foot,29.4,49.5,0.020529504865408,27
+Bryan Mbeumo,False,block,corner,right-foot,21.6,60.7,0.024476015940309,26
+Amad Diallo,False,block,assisted,right-foot,9.7,54.2,0.094136506319046,25
+Marcus Tavernier,True,miss,assisted,left-foot,4.5,56.6,0.20702569186687,23
+Rayan,True,save,assisted,left-foot,23.5,72.6,0.016064209863544,22
+Matheus Cunha,False,block,corner,right-foot,19.4,36.6,0.017391163855791,21
+Harry Maguire,False,block,corner,right-foot,4.3,59.5,0.066079817712307,20
+Bruno Fernandes,False,block,fast-break,right-foot,11.0,62.6,0.06798393279314,17
+Bruno Fernandes,False,save,assisted,right-foot,22.0,56.2,0.069766879081726,15
+Matheus Cunha,False,save,assisted,left-foot,11.0,33.3,0.036881633102894,11
+Rayan,True,miss,fast-break,right-foot,10.8,63.0,0.36640238761902,5
+Amad Diallo,False,save,assisted,right-foot,12.8,62.4,0.1237256526947,5
