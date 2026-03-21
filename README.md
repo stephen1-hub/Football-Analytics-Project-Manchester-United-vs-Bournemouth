@@ -1,4 +1,4 @@
-# Football-Analytics-Project-Manchester-United-vs-Bournemouth
+# Football-Analytics-Project-Bournemouth-vs-Manchester-United
 
 # Overview
 
