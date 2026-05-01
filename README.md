@@ -73,6 +73,8 @@ Shots per player
 xG per player
 Shot outcomes (goal, miss, save, block)
 Shot distribution by body part
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/521706dd-9802-4d21-b72b-7868b14566eb" />
+
 
 # Conclusion
 
