@@ -65,6 +65,8 @@ Suggests limited creation of clear-cut chances
 Displays shot locations
 Circle size represents xG
 Color indicates shot outcome
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2e375168-ae20-4d16-8c8f-131c78141713" />
+
 
 # Additional Charts
 Shots per player
